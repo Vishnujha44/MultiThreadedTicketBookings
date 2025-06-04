@@ -1,4 +1,4 @@
-# Railway Ticket Booking System
+# Multi Threaded TIcket Bookings
 
 A Java-based application for booking railway tickets, featuring GUI and console interfaces, MySQL database, and multi-threaded processing. Built with Maven, JDK 17, and IntelliJ IDEA.
 
