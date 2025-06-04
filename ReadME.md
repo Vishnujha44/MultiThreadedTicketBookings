@@ -22,11 +22,10 @@ A Java-based application for booking railway tickets, featuring GUI and console 
 
 ## Setup Instructions
 
-### 1. Clone or Unzip Project
-- Unzip `railway-ticket-booking.zip` or clone the repository.
+
 - Project structure:
 
-railway-ticket-booking/ ├── .idea/ ├── src/main/java/com/railway/ ├── src/main/resources/ │ ├── db.properties │ ├── schema.sql │ └── logback.xml ├── pom.xml └── README.md
+MultiThreadedTIcketBookings/ ├── .idea/ ├── src/main/java/com/railway/ ├── src/main/resources/ │ ├── db.properties │ ├── pom.xml └── README.md
 
 
 ### 2. Configure MySQL
@@ -49,17 +48,12 @@ Run schema.sql:
 
 mysql -u root -p < src/main/resources/schema.sql
 
-3. Import Project in IntelliJ
-
-
-
-
-
+3. 
 Open IntelliJ IDEA.
 
 
 
-File > Open, select railway-ticket-booking.
+File > Open, select MultiThreadedTIcketBookings .
 
 
 
