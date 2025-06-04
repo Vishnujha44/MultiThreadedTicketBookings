@@ -22,8 +22,8 @@ A Java-based application for booking railway tickets, featuring GUI and console 
 
 ## Setup Instructions
 
+### 1. Project Structure:
 
-- Project structure:
 
 MultiThreadedTIcketBookings/ ├── .idea/ ├── src/main/java/com/railway/ ├── src/main/resources/ │ ├── db.properties │ ├── pom.xml └── README.md
 
